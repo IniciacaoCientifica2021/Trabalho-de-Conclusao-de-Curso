@@ -1,6 +1,10 @@
-# IniciacaoCientifica
+# Trabalho de Conclusão de Curso UNIP 2021 (TCC).
 
-Trabalho de Iniciação Cientifica e Tecnologia.
+Integrantes:
+Alexandre Augusto Calixto SI8P39
+Amadeu dos Anjos Barros SI7P39
+Barbara de Souza Marques SI8P39
+Vinicius José Silva SI8P39
 
-Integrantes: Alexandre Augusto Calixto e Amadeu dos Anjos Barros  
-Desenvolvemos um algoritmo de TransferLearning com camadas convulocionais para detecção de imagens pulmonar. O intuito do desenvolvimento desse algoritmo é para auxiliar a área médica hospitalar.
+Desenvolvemos um algoritmo de Machine Learning com a tecnica de TransferLearning com camadas convulocionais para detecção de imagens pulmonar. O intuito do desenvolvimento desse algoritmo é para auxiliar a área médica hospitalar.
+
